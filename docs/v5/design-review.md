@@ -16,3 +16,7 @@ The scenes use instancing and shared geometry, cap device pixel ratio, pause off
 ## Asset access
 
 The requested WSL folder at /home/sheke/content-ideas could not be read in this session. Both \wsl.localhost\Ubuntu-24.04 and \wsl$\Ubuntu-24.04 paths returned EPERM despite explicit filesystem and network permission; wsl.exe returned Wsl/EnumerateDistros/Service/E_ACCESSDENIED. No assets are claimed to have come from that folder. A Windows-accessible copy of selected imagery can be incorporated in a later update.
+
+## GitHub imagery correction
+
+A broader repository audit located the semiconductor hero in shekerkamma/deepgrid-platform-showcase (images/semiconductor-hero.png). The homepage now uses optimized WebP versions of that concept render in its silicon/package interlude. It also displays the existing DeepGrid SoC2 render (public/media/deepgrid_soc2_die.jpg), the package-stack visual sourced from deepgridsemi.com, and the robotics concept render (public/media/deepgrid_robotics.jpg) in the wider portfolio section. Captions distinguish the wider portfolio from DG32 and identify concept imagery. The AI-generated wafer artwork remains in the asset archive but is no longer displayed on the homepage.
